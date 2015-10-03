@@ -1,0 +1,322 @@
+PART 4:  THE ADVENTURE
+Time and Scale
+Time in the dungeon is measured in game turns, which are (approximately) 10 minutes long.  When combat begins, the time scale changes to combat rounds, which are (approximately) 10 seconds long.  Thus, there are 60 combat rounds per game turn.
+Distances in the dungeon are measured in feet.  Outdoors, change all distance measurements (movement, range, etc.) to yards (so 100' becomes 100 yards) but area of effect measurements (for spells, for instance) normally remain in feet.
+Dungeon Adventures
+Carrying Capacity
+Normal Human, Elven and Dwarvish player characters are able to carry up to 60 pounds and still be considered lightly loaded, or up to 150 pounds and be considered heavily loaded.  Halflings may carry up to 50 pounds and be considered lightly loaded, or up to 100 pounds and be heavily loaded.  Note that armor for Halfling characters is about one-quarter as heavy as armor for the other races.
+These figures are affected by Strength; each +1 of Strength bonus adds 10% to the capacity of the character, while each -1 deducts 20%.  Thus, carrying capacities for normal characters are as shown below (rounded to the nearest 5 pounds for convenience):
+
+Dwarf, Elf, Human
+Halfling
+Strength
+Light Load
+Heavy Load
+Light Load
+Heavy Load
+3
+25
+60
+20
+40
+4-5
+35
+90
+30
+60
+6-8
+50
+120
+40
+80
+9-12
+60
+150
+50
+100
+13-15
+65
+165
+55
+110
+16-17
+70
+180
+60
+120
+18
+80
+195
+65
+130
+The carrying capacities of various domesticated animals are given in the Monsters section, in the entry for each type of animal.
+Movement and Encumbrance
+The movement rate of a character or creature is expressed as the number of feet it can move per combat round.  The normal player character races can all move 40' per round.  When exploring a dungeon, time is expressed in turns, as explained above; normal movement per turn is 3 times the movement rate per round.
+This may seem slow, but this rate of movement includes such things as drawing maps, watching out for traps and monsters (though they may still surprise the party), etc.  In a combat situation, on the other hand, everyone is moving around swiftly, and such things as drawing maps are not important.
+A character's movement rate is adjusted by his or her Encumbrance (the load he or she is carrying) as follows:
+Armor Type
+Lightly Loaded
+Heavily Loaded
+No Armor or Magic Leather
+40'
+30'
+Leather Armor or Magic Metal
+30'
+20'
+Metal Armor
+20'
+10'
+Count the weight of armor worn when calculating encumbrance, because armor counts both for bulk and restrictiveness as well as for weight.  Magic armor counts for its full weight but is not as bulky and restrictive as normal armor, thus granting an improved movement rate.
+Mapping
+In any dungeon expedition, making maps is important.  Generally one player will do this, drawing a map on graph paper as the Game Master describes each room or corridor.  Absolute accuracy is usually not possible; the main thing is to ensure that the party can find its way back out of the dungeon.
+Light
+A torch or lantern will provide light covering a 30' radius; dim light will extend about 20' further.  Normal torches burn for 1d4+4 turns, while a flask of oil in a lantern will burn for 18+1d6 turns.  A candle will shed light over a 5' radius, with dim light extending 5' further.  In general, taper candles such as are used for illumination will burn about 3 turns per inch of height.
+Darkvision
+Some character races, and almost all monsters, have Darkvision.  This gives them the ability to see even in total darkness.  Darkvision is black and white only but otherwise like normal sight.  Darkvision does not grant one the ability to see in magical darkness.  The range of Darkvision is typically either 30' or 60'; if not given for a particular creature, assume the 60' range.
+Darkvision is totally ineffective in any light greater than moonlight.
+Doors
+A stuck door can be opened on a roll of 1 on 1d6; add the character's Strength bonus to the range, so that a character with a bonus of +2 can open a stuck door on a roll of 1-3 on 1d6.
+Locked doors can be forced by rolling the same range, but on 1d10.  Metal bars can sometimes be bent on a roll of this range on 1d20.
+A careful character might choose to listen at a door before opening it.  Thieves have a special ability, Listen, which should be applied if the listener is a Thief.  For other characters, the GM rolls 1d6, with 1 indicating success.  Sounds heard might include voices, footsteps, or any other sound the GM considers appropriate.  Of course, the room beyond the door might really be silent; thus, the Game Master must make the roll, so that a roll of 1 in such a case will not give anything away to the players.
+Traps
+Dungeons and ruins frequently contain traps, including spear-throwers, covered pits, etc.  The GM will decide what is required to trigger a trap, and what happens when the trap is triggered.  (Some guidance on this is provided in the Game Master section later in this book.)  In general, there will be some way to avoid or reduce the effect of the trap being sprung.  For instance, a save vs. Death Ray is often used to avoid falling into a covered pit (with Dexterity bonus added), while spear-throwers, automated crossbows, and the like are sometimes treated as if they were monsters (attacking vs. the victim's Armor Class at some given attack bonus).
+Normal characters have a chance equal to a roll of 1 on 1d6 to detect a trap if a search for one is made.  Note that this is about a 16.7% chance; Thieves have a special ability to find and remove traps, which supersedes this roll, as does the stonework trap-finding ability of Dwarves.  A Dwarven Thief is a special case; apply whichever trap-detection ability is higher.  In all cases, a search for traps takes at least a turn per 10' square area.  A single character may only effectively search a given area for traps once, even if the character has more than one trap-detection roll “type” allowed (such as the Dwarven Thief above).
+Trap detection may not be allowed if the trap is purely magical in nature; on the other hand, in such cases Magic-Users and/or Clerics may be able to detect magical traps at the given 1 in 1d6 chance, at the Game Master's option.
+Secret Doors
+Under normal conditions, searching for secret doors takes one turn per character per 10' of wall searched.  A secret door is found on a roll of 1 on 1d6; characters with 15 or higher Intelligence succeed on a roll of 1-2.  Also, as noted previously, Elves add 1 to the range automatically, such that an Elf discovers secret doors on a 1-2 on 1d6, or 1-3 if the Elf has an Intelligence of 15 or higher.  The GM may create secret doors that are more difficult (or easier) to detect at his or her option.
+Multiple characters searching for secret doors ensures that any such will eventually be found; however, if the first and second searchers fail, the next searcher must take two turns to search, and all subsequent searches of the area require an hour.
+Note that finding a secret door does not grant understanding of how it works.  The GM may require additional rolls or other actions to be taken before the door can be opened.
+Dungeon Survival
+As described in the Equipment section, above, normal characters must consume one day's worth of rations (or equivalent food) and at least one quart of water per day.
+Failure to consume enough food does not significantly affect a character for the first two days, after which he or she loses 1 hit point per day.  Furthermore, at that point the character loses the ability to heal wounds normally, though magic will still work.  Eating enough food for a day (over the course of about a day, not all at once) restores the ability to heal, and the character will recover lost hit points at the normal rate.
+Inadequate water affects characters more swiftly; after a single day without adequate water, the character loses 1d4 hit points, and will lose an additional 1d4 hit points per day thereafter; healing ability is lost when the first die of damage is rolled.
+Wilderness Adventures
+Wilderness Movement Rates
+Movement rates when traveling in the wilderness are related directly to encounter movement rates, as shown on the table below:
+Encounter Movement
+(Feet per Round)
+Wilderness Movement
+(Miles per Day)
+10'
+6
+20'
+12
+30'
+18
+40'
+24
+50'
+30
+60'
+36
+70'
+42
+80'
+48
+90'
+54
+100'
+60
+110'
+66
+120'
+72
+Naturally, any group traveling together moves at the rate of the slowest member.
+Overland Travel
+The movement rates shown on the table above are figured based on an 8 hour day of travel through open, clear terrain.  The terrain type will alter the rate somewhat, as shown on this table:
+Terrain
+Adjustment
+Jungle, Mountains, Swamp
+x1/3
+Desert, Forest, Hills
+x2/3
+Clear, Plains, Trail
+x1
+Road (Paved)
+x1 1/3
+Characters may choose to perform a forced march, traveling 12 hours per day.  If this is done, add an additional 50% to the distance traveled.  Each day of forced march performed after the first inflicts 1d6 damage on the characters (and their animals, if any).  A save vs. Death Ray with Constitution bonus applied is allowed to avoid this damage, but after this save is failed once, it is not rolled again for that character or creature.  A day spent resting “restarts” the progression.
+Waterborne Travel
+Travel by water may be done in a variety of boats or ships; see the table in the Vehicles section for details.  Travel distances are based on a 12 hour day of travel, rather than the usual 8 hours per day given above.  Note that sailed ships may travel 24 hours per day (if a qualified navigator is aboard), and so may be able to cover twice the normal distance per day of travel.  This is in addition to the multiplier given below.  If the ship stops each night, as is done by some vessels traveling along a coastline as well as those vessels having less than the minimum number of regular crewmen on board, the two-times multiplier does not apply.
+Movement of sailed ships varies depending on weather conditions, as shown on the following table.  Sailing movement modifiers shown apply when sailing with the wind; sailing against the wind involves tacking (called “zigzagging” by landlubbers) which reduces movement rates two rows on the table (from Moderate Breeze to Very Light Breeze, for instance).
+d12
+Wind Direction
+1
+Northerly
+2
+Northeasterly
+3
+Easterly
+4
+Southeasterly
+5
+Southerly
+6
+Southwesterly
+7
+Westerly
+8
+Northwesterly
+9-12
+Prevailing wind direction for this locale
+d%
+Wind Conditions
+Sailing
+01-05
+Becalmed
+x0
+06-13
+Very Light Breeze
+x1/3
+14-25
+Light Breeze
+x1/2
+26-40
+Moderate Breeze
+x2/3
+41-70
+Average Winds
+x1
+71-85
+Strong Winds
+x1 1/3
+86-96
+Very Strong Winds
+x1 1/2
+97-00
+Gale
+x2
+Notes:
+Becalmed:  Sailing ships cannot move.  Oared ships may move at the given rowing movement rate.
+Very Strong Winds:  Sailing against the wind (tacking) is not possible.
+Gale:  Sailing against the wind is not possible, and ships exposed to a gale may be damaged or sunk; apply 2d8 points of damage to any such ship, per hour sailed.
+Traveling by Air
+When traveling by air, overland movement rates are doubled, and all terrain effects are ignored.  Most winged creatures must maintain at least one-third normal forward movement in order to remain airborne; however, devices such as flying carpets generally do not have to do this.
+Becoming Lost
+Adventurers following roads, trails, rivers, streams, or other obvious landmarks are unlikely to become lost; however, when the party strikes out into trackless forest, windblown desert, etc., they may become lost.  Secretly roll a save vs. Death Ray, adjusted by the Wisdom of the party leader (i.e., whichever player character seems to be leading).  (Alternately, an Ability Roll against Wisdom may be rolled, if that optional rule is in use.)  The GM must determine the effects of a failed roll.
+Retainers, Specialists and Mercenaries
+Player characters will sometimes want or need to hire NPCs (Non-Player Characters) to work for them.  There are several categories of NPCs available for hire, as follows:
+Retainers
+A retainer is a close associate of his employer.  Retainers are hired for a share of treasure (typically at least 15% of the employer's income) plus support costs (weapons, armor, rations, and basic equipment provided by the employer).  Retainers are typically very loyal and are willing to take reasonable risks; in particular, they are the only sort of hireling who will generally accompany a player character into a dungeon, lair, or ruin.
+Hiring a retainer is more involved than hiring other NPCs.  First, the player character must advertise for a retainer, typically by hiring a crier, posting notices in public places, or asking (and possibly paying) NPCs such as innkeepers or taverners to direct potential retainers to the player character.  It is up to the Game Master to rule on what must be done, and how successful these activities are.
+If the player character is successful, one or more NPCs will present themselves to be interviewed.  The Game Master should play out the interview with the player, and after all offers have been made and all questions asked, a reaction roll should be made.  To check the potential retainer's reaction, the Game Master rolls 2d6 and adds the player character's Charisma bonus.  In addition, the Game Master may apply any adjustments he or she feels are appropriate (a bonus of +1 for higher-than-average pay or the offer of a magic item such as a sword +1, or a penalty if the player character offers poor terms).  The roll is read as follows:
+Adjusted Die Roll
+Result
+2 or less
+Refusal, -1 on further rolls
+3-5
+Refusal
+6-8
+Try again
+9-11
+Acceptance
+12 or more
+Acceptance, +1 to Loyalty
+Refusal, -1 on further rolls means that all further reaction rolls made toward that player character in the given town or region will be at a penalty of -1 due to unkind words said by the NPC to his fellows.  If the player character tries again in a different town, the penalty does not apply.
+If a Try again result is rolled, the potential retainer is reluctant, and needs more convincing; the player character must “sweeten” the deal in order to get an additional roll, such as by offering more pay, a magic item, etc.  If the player character makes no better offer, treat Try again as a Refusal result.
+Loyalty:  All retainers have a Loyalty score, which is generally 7 plus the employer's Charisma bonus (or penalty).  The Loyalty score is used just as the Morale score of monsters or mercenaries is used.  
+If a Loyalty check roll made in combat is a natural 2, the Loyalty of the retainer increases by +1 point.  Note that a Loyalty of 12 is fanatical… the retainer will do virtually anything the player character asks, and never flee in combat.  However, the Game Master should still apply penalties when the player character instructs the retainer to do something which appears very risky, making a failed check possible.
+In addition, the Game Master should roll a Loyalty check for each retainer at the end of each adventure, after treasure is divided, to determine if the retainer will remain with the player character.  The GM may apply adjustments to this roll, probably no more than two points plus or minus, if the retainer is particularly well or poorly paid.
+Maximum Number of Retainers:  A player character may hire at most 4 retainers, adjusted by the character's Charisma bonus or penalty.  Any attempts to hire more than this number of retainers will be met with automatic refusals.
+Level of Retainers:  Normally, potential retainers will be one-half the level of the employer (or less).  So, a first level character cannot hire retainers, second level PCs can only hire first level characters, and so on.  Of course, there is no way for the retainers to directly know the level of the PC employer, nor for the employer to know the level of the potential retainer; but the Game Master should usually enforce this rule for purposes of game balance.  It shouldn't be surprising that first level characters can't hire retainers, as they have no reputation to speak of yet.
+Experience for Retainers:  Unlike other hired NPCs, retainers do gain experience just as other adventurers do; however, as they are under the command of a player character, only one-half of a share of XP is allocated to each retainer.  See Character Advancement, below, for an example.
+Specialists
+Specialists are NPCs who may be hired by player characters to perform various tasks.  Specialists do not go on adventures or otherwise risk their lives fighting monsters, disarming traps, or any of the other dangerous things player characters and retainers may do.  Rather, specialists perform services the player characters usually can't perform for themselves, like designing and erecting castles, training animals, or operating ships.
+A player character is limited in the number of specialists he or she can hire only by the amount of money they cost; Charisma does not affect this.
+Alchemist:  1,000 gp per month.  These characters are generally hired for one of two reasons: to make potions, or to assist a Magic-User with magical research.
+An alchemist can produce a potion, given the required materials and a sample or a written formula for the potion, in the same time and for the same cost as a Magic-User.  They may also research new potions, but at twice the cost in time and materials as a Magic-User.
+Alternately, a Magic-User seeking to create certain magic items may employ an alchemist as an assistant.  In this case, the alchemist adds 15% to the Magic-User's chance of success.
+Animal Trainer:  250 to 750 gp per month.  Characters wishing to ride hippogriffs or employ carnivorous apes as guards will need the assistance of an animal trainer.  The lowest cost above is for an average animal trainer, able to train one type of “normal” animal such as carnivorous apes; those able to train more than one sort of animal, or to train monstrous creatures such as hippogriffs, are more expensive to hire.  The Game Master must decide how long it takes to train an animal; in some cases, animal training may take years, a fact the player characters may find inconvenient as well as expensive.  A single animal trainer can train and manage no more than 5 animals at a time, though in most cases once an animal is fully trained, if it is put into service right away the animal trainer won't be needed to handle it any longer.
+Armorer (or Weaponsmith):  100 to 500 gp per month.  Characters hiring mercenaries, or having armed and armored followers to take care of, will need the services of an armorer.  In general, for every 50 Fighters employed, one armorer is required to care for their gear.  The armorer's equipment is not included in the costs given above, but the cost to maintain his apprentices is included; most such characters will have 1d4 apprentices assisting.
+Higher priced armorers or weaponsmiths may be hired to assist in making magic weapons or armor; in this case, the character hired will be a specialist, an expert in making one particular type of armor or weapon, and will command a higher price (as shown above).  Such characters will rarely agree to do the mundane work of maintaining weapons and armor for a military unit.
+Engineer:  750 gp per month.  Any player character wishing to build a fortress, a ship, or any other mundane construction will need an engineer.  Large projects may require several engineers, at the GM's option.
+Savant:  1,500 gp per month.  Savants are experts in ancient and obscure knowledge.  Many savants have particular interests in very limited or focused areas (for example, “Elven migrations of the 2nd age”), but even these will know or have access to a lot of facts.  The listed cost is the minimum required to maintain a savant with his library, collections, etc.  If the savant's patron asks a difficult question, there may be additional costs for materials or research to answer it.
+Ship's Crew:  Special.  A crew for a waterborne vessel involves several types of characters.  At the very least, a complement of sailors and a Captain are needed; rowers will be needed aboard galleys, and a Navigator is required aboard ships going out of sight of land.
+Costs per month for each sort of character are given below:
+Seaman Type
+Cost
+Captain
+300 gp
+Navigator
+200 gp
+Sailor
+10 gp
+Rower
+3 gp
+In general, all such characters are normal men, and are not armored; they will usually be armed with clubs, daggers, or shortswords.  Player characters with appropriate backgrounds may act as Captain, but unless experienced as a ship's captain, they will have difficulty commanding respect from the regular sailors (lower the Morale of such regular sailors by -2 if led by an inexperienced Captain).
+Mercenaries
+Mercenaries are hired warriors.  They are generally hired in units as small as platoons:  32 to 48 Fighters, divided into two to four squads of soldiers; each squad is led by a corporal, while the platoon is led by a lieutenant plus a sergeant.  Platoons are joined together into companies, each generally consisting of two to five platoons and led by a captain with a sergeant as his assistant (called a first sergeant).
+As mercenaries are almost always veteran troops, the average mercenary is a 1st level Fighter; 10% of corporals and 50% of sergeants are 2nd level.  A mercenary lieutenant will generally be 2nd level, while a captain will be 2nd to 4th level and his first sergeant will be 2nd or 3rd level.  Larger mercenary units will usually be beyond the reach of player characters until they have reached fairly high levels, and are left to the Game Master to detail.
+Mercenaries will virtually never go into a dungeon, lair, or ruin, at least until it has been fully cleared.  Rather, they are used in outdoor military engagements; high level player characters may hire mercenaries to defend or help defend their castles or other holdings.
+Mercenaries housed in a player character's stronghold require 200 square feet each but cost 25% less per month, as this is covered by their room and board.  (Elven mercenaries, however, require 500 square feet of space each in order to reduce their pay, as they demand better living conditions.)  See the Stronghold section for more details.
+Statistics are given below for the most common sorts of mercenaries; the statistics are for first level characters, and should be adjusted when higher level characters are indicated (as given above).  In particular, multiply the given cost of each mercenary by his or her level.  Listed costs are in gold pieces per month.
+Character Advancement
+Experience Points (XP)
+Experience points are given for monsters defeated, and for other challenges as the GM sees fit.  The following table provides XP values for monsters.  Where a monster has both a character level and hit dice given, use the larger value as the monster's level.  Non-combat challenges may be assigned a level, or a flat XP value assigned, as the GM wishes.
+If asterisks appear after the hit dice listing for a monster, each asterisk adds the special ability bonus once; for example, a creature with a hit dice figure of 2** is worth 125 XP.
+For monsters with more than 19 hit dice, add 750 XP to the XP Value and 25 XP to the Special Ability Bonus per additional hit die.
+NPCs should be treated as monsters of a number of hit dice equivalent to the character's level.  Add a special ability bonus for Clerics and Magic-Users if they are able to cast useful spells during the encounter.
+After tallying the XP earned in a given adventure, the amount should be divided by the number of adventurers.  As described above, each retainer should receive a one-half share; so a group with four player characters and a retainer is counted as having 4½ members.  If 2,000 XP are earned by this group, one share is 444 XP, and the retainer receives 222 XP.
+No character may advance more than one level due to the experience points from a single adventure.  For example, Barthal the Thief is 1st level and has 1,000 XP before going on an adventure; during the adventure, he earns 2,000 more XP (an amazing feat).  This would make his total 3,000 XP, and he would be a 3rd level Thief.  This is not allowed; instead, he advances to 2,499 XP, one short of the amount required for 3rd level, and starts his next adventure at 2nd level.
+Monster Hit Dice
+XP Value
+Special Ability Bonus
+less than 1
+10
+3
+1
+25
+12
+2
+75
+25
+3
+145
+30
+4
+240
+40
+5
+360
+45
+6
+500
+55
+7
+670
+65
+8
+875
+70
+9
+1,075
+75
+10
+1,300
+90
+11
+1,575
+95
+12
+1,875
+100
+13
+2,175
+110
+14
+2,500
+115
+15
+2,850
+125
+16
+3,250
+135
+17
+3,600
+145
+18
+4,000
+160
+19
+4,500
+175
