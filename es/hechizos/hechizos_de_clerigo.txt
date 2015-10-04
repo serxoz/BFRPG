@@ -1,0 +1,65 @@
+Los Clérigos reciven sus hechizos a través de la fé y la oración. Cada día, normalmente por la mañana, el Clérigo debe orar por lo menos tres turnos para preparar sus hechizos. Por supuesto, se puede esperar que el Clérigo ore más que esto de manera que mantenga la gracia de su dios o diosa.
+
+Ya que ganan sus hechizos durante la oración, un Clérigo puede preparar cualquier hechizo de cualquier nivel que pueda lanzar. Aunque, en algunos casos la deidad del Clérigo puede limitar la disponibilidad de ciertos hechizos; por ejemplo, una deidad devota a la curación puede rechazar garantizar hechizos de curación reversibles.
+
+Primer nivel  Hechizos de Clérigo
+1  Curar heridas leves*
+2  Detectar el Mal*
+3  Detectar la Magia
+4  Luz*
+5  Protección contra el Mal*
+6  Purificar Comida y Agua
+7  Quitar el Miedo*
+8  Resistir el Frío
+
+Segundo nivel Hechizos de Clérigo
+1  Bendecir*
+2  Encantar Animal
+3  Encontrar Trampas
+4  Sujetar Persona
+5  Resistir el Fuego
+6  Silencio 15' Radio
+7  Hablar con los Animales
+8  Martillo Espiritual
+
+Tercer nivel Hechizos de Clérigo
+1  Luz Continua*
+2  Curar Ceguera
+3  Curar  Enfermedad*
+4  Crecimiento de Animales
+5  Localizar Objeto
+6  Quitar Maldición*
+7  Hablar con los Muertos
+8  Golpear
+
+Cuarto nivel Hechizos de Clérigo
+1  Animar Muertos
+2  Crear Agua
+3  Curar Heridas Serias*
+4  Disipar Magia
+5  Neutralizar Veneno*
+6  Protección contra el Mal 10' radio*
+7  Hablar con Plantas
+8  Palos a Serpientes
+
+Quinto nivel Hechizos de Clérigo
+1  Comulgar
+2  Crear Comida
+3  Disipar el Mal
+4  Plaga de Insectos
+5  Misión*
+6  Levantar a los Muertos*
+7  Visión Verdadera
+8  Muro de Fuego
+
+Sexto nivel Hechizos de Clérigo
+1  Animar Objetos
+2  Barrera de Espadas
+3  Encontar el Camino
+4  Curar*
+5  Regenerar
+6  Restaurar
+7  Hablar con Monstruos
+8  Palabra de "Recall"
+
+
