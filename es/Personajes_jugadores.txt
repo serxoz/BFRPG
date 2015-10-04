@@ -56,5 +56,62 @@ Puesto que sabes qué tipo de armadura llevará tu personaje, apunta en la ficha
 la Clase de Armadura. No olvides añadir el bono (o penalizador) de Destreza.
 
 
+Echa un vistazo al bono de ataque (En la tabla cerca del final de la sección
+Encuentros) y anotalo en tu ficha. No añagas tus bonos(penalizaciones) de 
+características ya que dependiendo del tipo de arma que utilices en combate,
+sumarás un bono diferente (Fuerza o Destreza. Por ejemplo, cuerpo a cuerpo
+o armas a distancia).
+
+
+También observa tus tiradas de salvación (en las tablas cerca del final de 
+Encuentros) y apúntalos en la ficha. Ajusta la tirada de salvación en función
+de tu raza, si tu personaje es un semihumano. (Observa las razas de Personaje).
+Por favor, fíjate que los bonos a la tirada de salvación para los semihumanos,
+son presentados como valores adicionales para añadir a la tirada de dados; por
+conveniencia, en su lugar, simplemente podrías restarlos de la tirada de 
+salvación en la ficha de personaje.
+
+
+Finalmente, si aún no lo has hecho, pon nombre a tu personaje. Esto puede requerir
+más tiempo que todo el empleado en los otros pasos juntos.
+
+
+
+Características del personaje.
+
+Cada personaje, tendrá una puntuación de entre 3 y 18 en las siguientes 
+Características. A cada una, se le asocia un bono o penalizador, tal como
+se muestra en la siguiente tabla. Cada clase tiene una puntuación de
+característica como requisito principal, que debe ser de al menos 9 para
+que el personaje se convierta en miembro de esa clase. Cada raza requiere
+también que se cumplan con unas puntuaciones mínimas y máximas siempre que
+difiera de humano, como se describe en Razas de Personaje.
+
+
+Puntuaciones de Características			Bono/Penalizador
+3										-3
+4-5										-2
+6-8										-1
+9-12									0
+13-15									+1
+16-17									+2
+18										+3
+
+
+Fuerza: Como su nombre indica, esta característica valora el potencial
+físico del personaje. Fuerza es el requisito principal para los Guerreros.
+Aplica el bono/penalizador de fuerza a todas las tiradas de Ataque y daño
+en combate cuerpo a cuerpo. Fíjate que el penalizador no reducirá por debajo
+de 1 el daño causado por un ataque exitoso en ningún caso (Consultar la seción
+de Combate para más detalles).
+
+Inteligencia: Esta es la capacidad de aprender y aplicar conocimientos.
+Es el requisito principal de los Usuarios de la magia. El bono de inteligencia
+otorga el número de idiomas que el personaje puede aprender a leer y escribir;
+si el personaje cuenta con un penalizador en Inteligencia, significa que no
+podrá leer más que una o dos palabras y sólo conoce realmente su lengua nativa.
+
+
+
 
 
