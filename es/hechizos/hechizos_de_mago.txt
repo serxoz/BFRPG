@@ -1,0 +1,85 @@
+Hechizos de Mago
+
+Los Magos lanzan sus hechizos a través del ejercicio del conocimiento y de a voluntad. Preparan sus hechizos estudiando sus libros de hechizos; cada Mago tiene su propio libro de hechizos, que contiene la formula mágica para cada hechizoq e el Mago ha aprendido, escrito en una escritura mágica que solo puede ser leída por el que la ha escrito, o a traves del uso de un hechizo especial de primer nivel: leer magia. Todos los Magos comienzas a jugar con leer magia como su primer hechizo, y está tan arraigado que pueden prepararlo sin un libro de hechizos. Leer magia tiene un rango de "toque" y es permante con respecto a cualquier trabajo mágico (libro de hechizos o pergamino).
+
+Los Magos pueden aprender hechizos enseñados directamente por otro Mago, o estudiando el libro de hechizos de otro Mago. Si es siendo enseñado, el hechizo puede ser aprendido en la duración de un día; investigando en el libro de hechizos de otro Mago lleva un día de estudio por nivel de hechizo. De cualquier manera, el hechizo aprendido debe ser transcrito al propio libro de hechizos del Mago, con un coste de 500 mo por nivel del hechizo transcrito, y requiere una página por nivel. Un Mago novato comienza con un libro de hechizos que contiene leer magia y al menos otro hechizo de primer nivel, determinado por el DJ, sin coste.
+
+Primer Nivel Hechizos de Mago
+1  Encantar Persona
+2  Detectar Magia
+3  Disco Flotante
+4  Mantener Portal
+5  Luz*
+6  Misil Mágico
+7  Boca Mágica
+8  Protección contra el Mal*
+9  Leer Idiomas
+10 Escudo
+11 Dormir
+12 Ventriloquismo
+
+Segundo Nivel Hechizos de Mago
+1  Luz Continua*
+2  Detectar el Mal*
+3  Detectar lo Invisible
+4  ESP
+5  Invisibilidad
+6  Golpear
+7  Levitar
+8  Localizar Objeto
+9  Espejar Imagen
+10 Fuerza Fantasmal
+11 Telaraña
+12 Cerradura de Mago
+
+Tercer nivel Hechizos de Mago
+1  Clarividencia
+2  Visión en la Oscuridad
+3  Disipar Magia
+4  Bola de Fuego
+5  Volar
+6  Celeridad
+7  Aguantar Persona
+8  Invisibilidad 10' radio
+9  Rayo
+10 Protección contra el Mal 10' radio*
+11 Protección contra Proyectiles Normales
+12 Respirar en el Agua
+
+Cuarto nivel Hechizos de Mago
+1  Encantar Monstruo
+2  Confusion
+3  Puerta Dimensional
+4  Crecimiento de Plantas*
+5  Terreno Alucinatorio
+6  Tormenta de Hielo
+7  Massmorph ¿?
+8  Polimorfar a Otro
+9  Polimorfar a Uno mismo
+10 Limpiar Maldición
+11 Muro de Fuego
+12 Ojo de Mago
+
+Quinto nivel Hechizos de Mago
+1  Animar a los Muertos
+2  Nube Asesina
+3  Conjurar Elemental
+4  Mente Febril
+5  Aguantar Monstruo
+6  Frasco Mágico
+7  Atravesar Muro
+8  Telequinesia
+9  Teletransportación
+10 Muro de Piedra
+
+Sexto nivel Hechizos de Mago
+1  Escudo Antimagia
+2  Hechizos Muerte
+3  Desintegrar
+4  Carne a Piedra*
+5  Geas ¿?
+6  Acosador Invisible
+7  Agua Baja
+8  Imagen Proyectada
+9  Reencarnacion
+10 Muro de Hierro
