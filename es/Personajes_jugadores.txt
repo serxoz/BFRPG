@@ -8,4 +8,11 @@ personaje en él. Podrías utilizar una hoja de personaje si es que se
 encuentra disponible o un trozo de hoja de un block de notas. Un ejemplo
 de personaje, es mostrado a continuación. Deberías utilizar un lapiz para 
 escribir toda la información, tanto las estadísticas como los cambios
-durante la sesión de juego
+durante la sesión de juego.
+
+Lanza 3D6 por cada puntuación de característica, como se describe en la 
+seccion de Características de Personaje, y escribe los resultados junto
+al nombre de la característica. Escribe las puntuaciones en el orden en 
+que las lanzas. Si no estás contento con las puntuaciones que has 
+sacado, consulta al Director de Juego, quizás te permita modificar
+las puntuaciones de alguna manera.
