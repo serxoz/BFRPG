@@ -16,3 +16,45 @@ al nombre de la característica. Escribe las puntuaciones en el orden en
 que las lanzas. Si no estás contento con las puntuaciones que has 
 sacado, consulta al Director de Juego, quizás te permita modificar
 las puntuaciones de alguna manera.
+
+
+Anota los bonos (o penalizaciones) a las puntuaciones de características,
+por cada puntuación, como se muestra en la tabla de la siguiente página.
+
+Elige una raza y una clase para tu personaje. Recuerda que debes cumplir
+con el mínimo para requisito principal para la clase, como se describe en la
+sección de Clases de Personajes.
+
+Apunta las habilidades especiales de tu raza y clase elegidas, como se explica
+abajo. Si has decidido jugar con un Usuario de la Magia, pregunta a tu Director
+de juego que hechizo o hechizos conoce tu personaje. Es tarea del Director de
+juego decidir esto, pero podría permitirte que escogieras tú mismo uno o más.
+
+Anota en la ficha, que tu personaje tiene 0 puntos de experiencia; También
+deberías apuntar la cantidad necesaria para subir al siguiente nivel, como
+se muestra en la tabla de tu clase.
+
+Lanza los dados de golpe apropiados para tu clase, añadiendo el bonus (o
+penalizador) de Constitución), y anota el resultado como tus puntos de golpe
+en la ficha de personaje. Ten en cuenta que, si tu personaje tuviera un
+penalizador de Constitución, el penalizador no podría reducir los dados
+de golpe por debajo de 1 (Por tanto, si tu personaje tiene un penalizador
+de -2 a la Constitución y al lanzar, sacar un 2, el total es ajustado a 1).
+
+
+Calcula con cuánto dinero comienzas. Generalmente, tu personaje comenzará
+con 10 veces el resultado de lanzar 3D6, pero antes de hacer la tirada,
+consulta con el Director de juego.
+
+Ahora, compra equipo para tu personaje, como se muestra en la sección de
+Costes de Armas y Equipo. Escribe tus compras en la hoja de personaje y
+anota cuánto dinero te queda después de todo. Asegúrate de comprender las
+restricciones de armas y armaduras de tu clase y tu raza, antes de realizar
+la compra. 
+
+Puesto que sabes qué tipo de armadura llevará tu personaje, apunta en la ficha
+la Clase de Armadura. No olvides añadir el bono (o penalizador) de Destreza.
+
+
+
+
