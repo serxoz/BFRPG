@@ -1,0 +1,8 @@
+Animar Objetos
+Clérigo 6
+Distancia: 100' + 10' por nivel
+Duración: 1 asalto por nivel
+
+Este hechizo imbuye a los objetos inanimados con mobilidad y una apariencia de vida. Entonces los objetos animados atacan a quien o a lo que el lanzador designe. Este hechizo no puede animar objetos cargados por o vestidos por una criatura. Un objeto animado puede ser de cualquier material no mágico. El lanzador puede animar un objeto por nivel, hasta un máximo de 25 lbs. por nivel de lanzador (p.ej.: 300 lbs. a 12º nivel, 325 lbs. a 13º nivel, y así).
+
+El DJ debe reglar la efectividad de los objetos animados en combate. Como norma general, los objetos animados atacan usando el mismo bonificador de ataque que el lanzador. Los objetos pequeños o ligeros no hacen mas que 1d4 de daño por golpe, mientras que los grandes y/o pesados hacen 1d6 o 1d8 (a discreción del DJ). Como caso especial, las armas que son animadas hacen daño usando el dado normal para su tipo, pero solo hasta un máximo de 1d8. Los objetos animados tienen un rango de movidmiento de 10' y normalmente deben moverse en contacto con el suelo (caminando, saltando, deslizándose o rebotando, lo que le parezca más apropiado al DJ).

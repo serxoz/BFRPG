@@ -1,0 +1,8 @@
+Bendecir*
+Clérigo 2
+Distancia: 50' radio
+Duración: 1 minuto por nivel
+
+Este hechizo da al lanzador y a sus aliados (en un rango de 50' de radio desde el lanzador) un bonificador de +1 a las tiradas de ataque, a las pruebas de moral (para los monstruos o NPCs aliados con el lanzador) y para las tiradas de salvación contra miedo mágico.
+
+El reverso de bendecir se llama arruinar. Llena a los enemigos del lanzador (en un radio de 50') con miedo y duda, causándole a cada criatura afectada sufrir un penalizador de -1 a las tiradas de ataque, pruebas de moral y tiradas de salvación contra miedo mágico.

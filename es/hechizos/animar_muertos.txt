@@ -1,0 +1,7 @@
+Animar Muertos
+Clérigo 4, Mago 5
+Distancia: toque
+Duración: especial
+
+Este hechizo convierte los huesos o los cuerpos de las criaturas muertas en esqueletos no-muertos o zombis que obedecen las órdenes habladas del lanzador. Se mantienen reanimados hasta que son destruidos. El lanzador puede animar un número de dados de golpe de no-muertos igual a dos veces su nivel de lanzador, y no más. Los esqueletos animados tienen un número de dados de golpe igual al que tenían en vida; para esqueletos de humanos o semi-humanos, esto significa un dado de golpe, independientemente del nivel del muerto. Los zombis tienen un dado de golpe más que los que la criatura tenía en vida. Un esqueleto animado solo puede ser creado desde un esqueleto casi intacto; un zombi puede ser creado solo desde un cuerpo mayormente intacto. El lanzador debe tocar los restos para animarlos. Ningún personaje puede normalmente controlar más dados de golpe de no-muertos que 4 veces su nivel, independientemente de cuantas veces lance este hechizo.
+

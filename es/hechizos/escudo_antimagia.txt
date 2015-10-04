@@ -1,0 +1,6 @@
+Escudo Antimagia
+Mago 6
+Distancia: 10' radio
+Duración: 1 turno por nivel
+
+En un radio de 10' alrededor del lanzador, toda la magia es negada durante la duración de este hechizo. Los ataques mágicos no afectarán al lanzador, los objetos mágicos y hechizos dentro del radio serán suprimidos, y el lanzador no puede efectuar más magia hasta que el hechizo expire.

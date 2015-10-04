@@ -1,0 +1,10 @@
+Barrera de Espadas
+Clérigo 6
+Distancia: 90'
+Duración: 1 asalto por nivel
+
+Este hechizo crea un muro de espadas giratorias hasta de 20' de largo por nivel del lanzador, o un muro en forma de anillo de espadas giratorias con un radio de hasta 5' por cada dos niveles. Cada forma será hasta 20 ft. de alto (como permita el espacio disponible). Cualquier criatura cruzando el muro recibe 1d6 puntos de daño por nivel del lanzador (máximo 15d6), con una salvación contra Rayo Mortal reduce el daño a la mitad.
+
+Si el lanzador evoca la barrera de manera que aparezca donde están las criaturas, cada criatura recibe daño como si atravesara el muro. Cada una de las criaturas puede evitar el muro (acabando en el lado que elijan) y sin recibir daño si pasan la tirada de salvación contra Rayo Mortal.
+
+Una barrera de espadas provee cobertura (+4 de bonificador a Clase de Armadura) contra ataques realizados a traves de ella.
