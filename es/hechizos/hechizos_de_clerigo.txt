@@ -60,6 +60,6 @@ Sexto nivel Hechizos de Clérigo
 5  Regenerar
 6  Restaurar
 7  Hablar con Monstruos
-8  Palabra de "Recall"
+8  Palabra de Regreso 
 
 

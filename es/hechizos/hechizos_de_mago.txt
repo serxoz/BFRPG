@@ -77,7 +77,7 @@ Sexto nivel Hechizos de Mago
 2  Hechizos Muerte
 3  Desintegrar
 4  Carne a Piedra*
-5  Geas ¿?
+5  Geas/empeño
 6  Acosador Invisible
 7  Agua Baja
 8  Imagen Proyectada
