@@ -1,0 +1,7 @@
+Clarividencia
+Mago 3
+Distancia: 60'
+Duración: 12 turnos
+
+Este hechizo permite al lanzador ver en otra área a través de los ojos de una criatura viva en ese área. el lanzador debe especificar la dirección y la distancia aproximada, hasta un máximo de 60'. Si no existe ninguna criatura aprociada en ese area, el hechizo falla. No se permite tirada de salvación, y la criatura objetivo no es consciente de que está siendo utilizada. El lanzador puede elegir otra criatura después de que pase un turno al menos, permitiendole ver múltiples localizaciones. Si la criatura objetivo se mueve fuera de rango, el contacto se pierde, aunque el lanzador puede ser capaz de elegir otra criatura en este caso.
+

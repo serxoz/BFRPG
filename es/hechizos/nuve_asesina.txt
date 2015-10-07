@@ -1,0 +1,7 @@
+Nube asesina
+Mago 5
+Distancia: 100' + 10' por nivel
+Duración: 6 asaltos por nivel
+
+Este hechizo crea una nube de gas venenoso de 20'x20'x20' la cual se mueve a una velocidad de 10' por asalto bajo el control del lanzador (mientras que este se concentre en el hechizo). La nube de gas mata francamente a las criaturas de 3 o menos dados de golpe o niveles que entren en contacto con esta; las criaturas con 4 o más dados de golpe deben hacer una tirada de salvación contra veneno o morir. La nube persiste hasta acabar su duración aunque el lanzador no se concentre más en el hechizo.
+

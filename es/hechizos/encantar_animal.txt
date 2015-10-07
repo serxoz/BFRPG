@@ -1,0 +1,9 @@
+Encantar animal
+Clérigo 2
+Distancia: 60'
+Duración: nivel + 1d4 asaltos
+
+Este hechizo permite al lanzador encantar uno o mas animales, de la misma manera que encantar persona, a un ratio de 1 dado de golpe por nivel del lanzador. El lanzador puede decidir que animales individuales de un grupo mezclado van a ser afectados primero; el exceso de dados de golpe se ignora. No se permite tirada de salvación, ya sea para animales normales o gigantes, pero las criaturas de naturaleza más fantástica (como determine el DJ) pueden tirar salvación contra Hechizos para resistir el hechizo. Cuando termine la duración, los animales volverán a su actividad normal inmediatamente.
+
+Este hechizo no garantiza al lanzador ninguna manera especial de comunicación con los animales afectados; si se combina con hablar con animales, este hechizo se vuelve significantemente más útil.
+

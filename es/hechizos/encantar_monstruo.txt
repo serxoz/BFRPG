@@ -1,0 +1,8 @@
+Encantar monstruo
+Mago 4
+Distancia: 30'
+Duración: especial
+
+Este hechizo funciona como encantar persona, excepto que el efecto no está restringido por el tipo o tamaño de la criatura. No afecta a los monstruos no-muertos. Este hechizo puede afectar a 3d6 dados de golpe de varias criaturas que tengan 3 o menos dados de golpe, o una criatura de más de 3 dados de golpe. Las tiradas de salvación se hacen igual que para encantar persona.
+
+

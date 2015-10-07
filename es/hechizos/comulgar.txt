@@ -1,0 +1,7 @@
+Comulgar
+Clérigo 5
+Distancia: el mismo
+Duración: 1 asalto por nivel
+
+Este hechizo pone al lanzador en contacto con su deidad patrona o con un sirviente extraplanar del mismo, el cual responde con si o no una pregunta por nivel del lanzador. El ritual para lanzar este hechizo necesita 1 turno para completarse. El ser contactado puede o no ser omnisciente, adicionalmente, aunque el ser sea técnicamente un aliado del lanzador, puede no responder a las preguntas clara o completamente. Estos detalles quedan a discreción del DJ.
+

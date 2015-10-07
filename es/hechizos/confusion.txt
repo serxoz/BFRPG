@@ -1,0 +1,15 @@
+Confusión
+Mago 4
+Distancia: 360'
+Duración: 2 asaltos + 1 por nivel
+
+Este hechizo causa hasta a 3d6 criaturas vivas en un radio de 30' alrededor del objetivo volverse confundidas, haciendo que sean incapaces a determinar independientemente que harán. Una tirada de salvación contra hechizos les permitirá resistir el efecto. Tira en la siguiente tabla en la iniciativa de cada sujeto cada asalto para ver que hará el sujeto.
+
+d20      Comportamiento
+1-2      Atacará al lanzador con armas a melee o a rango (o se acercará al lanzador si no puede atacar)
+3-4      Actuará normalmente.
+5-10     No hará nada salvo balbucear incoherentemente.
+11-14    Escapará del lanzador a su velocidad máxima posible.
+15-20    Atacará a la criatura más cercana.
+
+Un personaje confundido que no pueda llevar a cabo la acción indicada no hará nada salvo balbucear incoherentemente. Los atacantes no tendran ninguna ventaja especial cuando ataquen a un personaje confundido. Cualquier personaje confundido que sea atacado automáticamente tomará represalias en su siguiente turno, mientras siga confundido cuando llegue su turno.

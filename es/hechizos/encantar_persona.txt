@@ -1,0 +1,7 @@
+Encantar persona
+Mago 1
+Distancia: 30'
+Duración: especial
+
+Este hechizo hace que una criatura humanoide de 4 dados de golpe o menos considere al lanzador como un amigo o aliado. Los humanos y semi-humanos pueden ser afectados, independientemente de su nivel de habilidad. Una tirada de salvación contra hechizos negará el efecto. Si la criatura está actualmente siendo amenazada o atacada por el lanzador o sus aliados, recibirá un bonificador de +5 a su tirada de salvación. El hechizo no permite al lanzador controlar a la persona encantada como si fuese un autómata; más bien, percibe sus palabras y actos de la manera más favorable. El lanzador puede intentar dar órdenes al sujeto, pero este no hará nada que normalmente no haría y puede hacer una tirada de salvación para superar la magia (a discreción de DJ). El lanzador debe hablar en el idioma del objetivo para comunicar cualquier órden, o bien ser bueno con la mímica; por supuesto, si el lanzador es atacado, la criatura encantada actuará para proteger a su "amigo" (aunque eso pueda significar atacar a los enemigos del lanzador, o intentará llevar al lanzador a un lugar "seguro"). El objetivo recive una nueva tirada de salvación cada día si tiene Inteligencia de 13 o más, cada semana si su Inteligencia es de 9 a 12, o cada mes si su Inteligencia es de 8 o menos.
+
