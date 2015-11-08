@@ -1,0 +1,6 @@
+Hechizo Muerte 
+Mago 6
+Distancia: 240'
+Duración: instantánea
+
+Este hechizo matará 3d12 dados de golpe o niveles de criaturas en una esfera de 30' de radio centrada donde el lanzador desee (dentro de su limite de distancia). Los niveles de efectividad excedidos se pierden. Cada criatura afectada puede hacer una salvación contra Rayo Mortal; aquellas que fallen la salvación mueren inmediatamente. Las criaturas de 8 o más dados de golpe o niveles son inmunes a este hechizo, así como los no-muertos, golems o cualquier otra criatura que no esté viva realmente.

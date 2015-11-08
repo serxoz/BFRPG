@@ -1,0 +1,10 @@
+Curar Heridas Leves 
+Clérigo 1 
+Distancia: toque
+Duració: instantánea
+
+Con este hechizo el lanzador cura 1d6+1 puntos de golpe de daño al imponer sus manos sobre la criatura herida.
+
+La forma inversa de este hechizo, Causar Heridas Leves, causa 1d6+1 de daño a la criatura afectada por él. Una tirada de ataque exitosa es necesaria en este caso.
+
+A los no-muertos les afectan estos hechizos al revés, los hieren Curar Heridas Leves y los curan Causar Heridas Leves.

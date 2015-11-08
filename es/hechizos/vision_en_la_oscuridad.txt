@@ -1,0 +1,6 @@
+Visión en la Oscuridad 
+Mago 3
+Distancia: toque
+Duració:1 hora por nivel
+
+El sujeto recibe Vision en la Oscuriadd con un rango de 60' durante la duración del hechizo. (Ver página 37 para detalles.)

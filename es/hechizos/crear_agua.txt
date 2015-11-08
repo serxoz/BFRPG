@@ -1,0 +1,6 @@
+Crear agua
+Clérigo4
+Distancia: 10'
+Duración permanente
+
+Este hechizo crea un galón de agua por nivel del lanzador. Notar que una o más vasijas deben estar disponibles durante el lanzamiento del hechizo para contener el agua. El agua creada por este hechizo es como agua limpia de lluvia. Nota: El agua pesa sobre 8 libras cada galón, y un pié cúbico de agua es aproximadamente 8 galones.

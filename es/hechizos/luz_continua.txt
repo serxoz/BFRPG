@@ -1,0 +1,10 @@
+Luz Continua*
+Cl�rigo 3, Mago 2
+Distancia: 360'
+Duración:1 año por nivel
+
+Este hechizo crea una región esférica de luz, tan brillante como la luz del día hasta unos 30' de radio, con luz de menos intensidad hasta un radio de 60'. Luz Continua se puede lanzar en un objeto, en el aire o e una criatura, simplemente como el hechizo luz, hasta una distancia máxima de 360' desde el lanzador. El hechizo se mantiene un año por nivel del lanzador.
+
+Así como luz, este hechizo puede ser usado para cegar una criatura si se lanza en sus órganos visuales. Las criaturas objetivo de este hechizo pueden salvar contra Rayo Mortal; si la salvación tiene éxito, el hechizo se lanzará en el aire justo enfrente a la criatura. Un penalizador de -4 se aplicará a las tiradas de ataque de la criatura cegada si falla la tirada de salvación.
+
+El hechizo inverso, Oscuridad Continua, causa la completa ausencia de luz en el area de efecto, sobreponiendose a las fuentes de luz normales. Oscuridad Continua puede usarse para cegar de la misma manera que Luz Continua.

@@ -1,0 +1,8 @@
+Curar Enfermedad* 
+Clérigo 3
+Distancia: toque
+Duració: instantánea
+
+Curar Enfermedad cura todas las enfermedades que sufra el sujeto. El hechizo también mata los parásitos que aflijan a la criatura objetivo. Ciertas enfermedades especiales pueden no ser curadas por este hechizo o pueden ser atajadas por un lanzador de cierto nivel o superior.
+
+Nota: Este hechizo no previene la reinfección al volverse a exponer a la misma enfermedad.

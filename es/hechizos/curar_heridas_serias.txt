@@ -1,0 +1,6 @@
+Curar Heridas Serias 
+Clérigo4 
+Distancia: toque
+Duració: instantánea
+
+Este hechizo funciona exactamente igual que Curar Heridas Leves, pero curando 2d6 puntos de daño, mas 1 punto por nivel del lanzador. El inverso, Causar Heridas Serias, también funciona exactamente igual que Causar Heridas Leves, con la excepción de que inflinje 2d6 + nivel del lanzador de daño.

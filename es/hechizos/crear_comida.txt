@@ -1,0 +1,7 @@
+Crear comida
+Clérigo 5
+Distancia: 10'
+Duración permanente
+
+La comida creada con este hechizo es comida sencilla a elección del lanzador, altamente nutritiva pero bastante sosa. Hasta 3 hombres o un caballo por nivel del lanzador puede ser alimentado durante un día con este hechizo. La comida creada asíse arruína y se vuelve incomestible en 24 horas, aunque puede mantenerse fresca por otras 24 horas lanzando Purificar Comida y Agua en ella.
+

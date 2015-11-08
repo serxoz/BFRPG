@@ -1,0 +1,6 @@
+Conjurar Elemental
+Mago 5
+Distancia: 240'
+Duración:especial
+
+Se abre un portal a uno de los Planos Elementales del Aire, Tierra, Fuego o Agua, permitiendo al Mago invocar un elemental de dicho plano. A lo sumo un elemental de cada tipo puede ser invocado por el lanzador en un día dado. Una vez que el elemental aparece, servirá al lanzador indefinidamente, siemp que el lanzador se concentre en nada más que controlar la criatura; lanzar hechizos, combatir o movere más que la mitad de su capacidad normal de movimiento resulta en la pérdida de concentraci� El lanzador, mientras controle un elemental, puede despedirlo a su plano nativo a voluntad (haciendolo en su Iniciativa si está en combate). Si el Mago pierde la concentración, pierde el control del Elemental invocado y no puede recuperarlo. La criatura entonces intentará atacar al lanzador y a los demás en su camino. Solo disipar magia o disipar el mal desterrarán el elemental una vez que el control esté perdido. Un elemental puede, claro está, elegir volver a su plano por si mismo; dichas ciraturas no elegiran permanecer en el plano material por mucho tiempo.

@@ -1,0 +1,6 @@
+Curar Ceguera
+Clérigo 3
+Distancia: toque
+Duració: instantánea
+
+Con este hechizo el lanzador puede curar a una criatura sufriendo ceguera (causada por herida o por magia, incluyendo Luz o Luz Continua). La ceguera causada por una maldición no puede ser curada por este hechizo.
