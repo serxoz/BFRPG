@@ -28,7 +28,7 @@ Tercer nivel Hechizos de Clérigo
 3  Curar  Enfermedad*
 4  Crecimiento de Animales
 5  Localizar Objeto
-6  Quitar Maldición*
+6  Eliminar Maldición*
 7  Hablar con los Muertos
 8  Golpear
 

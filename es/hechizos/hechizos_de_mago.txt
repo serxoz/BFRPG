@@ -56,7 +56,7 @@ Cuarto nivel Hechizos de Mago
 7  Massmorph ¿?
 8  Polimorfar a Otro
 9  Polimorfar a Uno mismo
-10 Limpiar Maldición
+10 Eliminar Maldición
 11 Muro de Fuego
 12 Ojo de Mago
 
