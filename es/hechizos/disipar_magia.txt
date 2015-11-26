@@ -1,0 +1,10 @@
+Disipar Magia
+Clérigo 4, Mago 3
+Distancia: 120'
+Duración: instantanea
+
+El lanzador puede usar disipar magia para finalizar hechizos en curso que hayan sido lanzados en una criatura u objeto, o para finalizar hechizos en curso (o por lo menos sus efectos) en un área cúbica de 20' de lado. El lanzador debe elegir entre disipar la magia de una criatura u objeto, o afectar a un área.
+
+Si Disipar Magia tiene por objetivo a una criatura, todos los efectos de hechizos (incluyendo efectos de pociones en curso) pueden ser cancelados. Si se lanza contra un área, todos los efectos en ese área pueden ser cancelados. Cualquier hechizo o efecto que tenga un nivel de lanzador igual o menor que el nivel del lanzador de Disipar Magia será finalizado automáticamente. Aquellos creados por lanzadores de hechizos de nivel superior puede que no se cancelen, existe una posibilidad de que Disipar Magia falle de un 5% por cada nivel del efecto que supere al nivel del lanzador. Por ejemplo, un lanzador de nivel 10 que disipe la magia creada por un lanzador de nivel 14 tiene un 20% de posibilidad de fallo.
+
+Algunos hechizos no se pueden disipar por Disipar Magia; este incluye específicamente cualquier maldición, incluyendo aquellas creadas por Otorgar Maldición ( el inverso de Eliminar Maldición) así como de artículos malditos.

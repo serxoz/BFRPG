@@ -1,0 +1,8 @@
+Desintegrar
+Mago 6
+Distancia: 60'
+Duración: instantánea
+
+Este hechizo causa un fino y verde rayo que mana del dedo que señale del lanzador. Cualquier criatura u objeto (hasta un cubo de material de 10x10x10 pies) es completamente desintegrado, dejando tras de si solo un rastro de fino polvo. No afecta al equipo de una criatura desintegrada.
+
+No afecta a una criatura que haga una salvación exitosa contra Hechizos. El rayo solo puede tener como objetivo una criatura por lanzamiento, si la criatura se salva, el hechizo se pierde.

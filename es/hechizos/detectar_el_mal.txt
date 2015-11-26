@@ -1,0 +1,10 @@
+Detectar el Mal
+Clérigo 1, Mago 6
+Distancia: 60'
+Duración: 1 asalto/nivel
+
+Este hechizo permite al lanzador detectar el mal; específicamente, el lanzador pued detectar criaturas con malignas intenciones, items mágicos con encantamientos malignos, y posiblemente criaturas extrapalanares con naturaleza maligna. Los personajes normales, aún los personajes "malos", no pueden ser detectados por este hechizo, ya que solo la abrumadora maldad es detectable. El lanzador ve a las criaturas u objetos "malignos" con un brillo definido alrededor de ellos, pero el brillo no puede ser visto por nadie más.
+
+La definición exacta de maligno se deja en manos de la decisión del DJ. Tenga en cuenta que los artículos tal como trampas normales o venenos no son "malignos", y por tanto no detectables por este hechizo.
+
+Invertido, este hechizo se vuelve Detectar lo Bueno, el cual funciona como se describe arriba con respecto a detectar encantamientos "buenos", criaturas angelicales, y así.

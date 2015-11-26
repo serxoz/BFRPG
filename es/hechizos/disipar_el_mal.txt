@@ -1,0 +1,12 @@
+Disipar el Mal
+Clérigo 5
+Distancia: toque
+Duración: 1 asalto/nivel
+
+Primero, el lanzador gana un bonificador de +4 a su Clase de Armadura contra ataques de criaturas malignas.
+
+Segundo, el lanzador puede elegir devolver a una criatura maligna a su plano de origen tocándola (requiere una tirada de ataque exitosa). La criatura puede negar los efectos con una salvación exitosa contra Hechizos. Este uso descarga y finaliza el hechizo, aunque la criatura tenga exito en la tirada de salvación.
+
+Tercero, con un toque el lanzador puede automáticamente disipar cualquier hechizo lanzado por una criatura maligna. Excepción: los hechizos que no pueden ser disipados por Disipar Magia tampoco pueden ser disipados por Disipar el Mal. Las tiradas de salvación no se aplican a este efecto. Este uso también finaliza el hechizo.
+
+La definición exacta de maldad queda a decisión del DJ; aún así, las criaturas extraplanares que se opongan al lanzador casi siempre se deberán calificar así.

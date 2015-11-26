@@ -1,0 +1,6 @@
+Detectar Magia
+Clérigo 1, Mago 1
+Distancia: 60'
+Duración: 2 turnos
+
+El lanzador de este hechizo es capaz de detectar objetos o criaturas encantados o que almacenen hechizos en el rango de efecto con linea de visión, viéndolos rodeados por un pálido brillo de luz. Solo el lanzador ve el brillo. Las criaturas u objetos invisibles no son detectados por este hechizo, pero las emanaciones de la magia de invisibilidad serán vistas como una niebla brillante amorfa, posiblemente permitiendo al lanzador (solo a él) atacar a la criatura invisible con un penalizador al ataque de solo -2.

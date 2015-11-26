@@ -1,0 +1,6 @@
+Detectar lo Invisible
+Mago 2
+Distancia: 60'
+Duración: 1 turno/nivel
+
+Por medio de este hechizo el lanzador es capaz de ver personajes, criaturas u objetos invisibles en el rango de efecto, viendolas como formas translúcidas.

@@ -1,0 +1,6 @@
+Puerta Dimensional
+Mago 4
+Distancia: 10'
+Duración: instantánea
+
+El lanzador de este hechizo instantaneamente se transfiere a él mismo, o cualquier criatura en el rango, a cualquier punto en 200' mas 20' por nivel del lanzador. El lanzador o la criatura siempre llega al punto deseado exacto, si el lanzador visualiza el area o establece una dirección y una distancia. Un objetivo que no quiera ser afectado por el hechizo puede realizar una salvación contra hechizos para evitar ser transportado. Cualquier cosa vestida o llevada por el lanzador o criatura objetivo será transportada también, incluyendo otro personaje o criatura si el transportado puede levantarlo. Si el area de destino es un objeto sólido, el hechizo falla automáticamente.
