@@ -1,0 +1,6 @@
+﻿Encontrar trampas
+Clérigo 2
+Distancia: 30'
+Duración: 3 turnos
+
+Este hechizo permite al lanzador detectar una variedad de trampas, tanto mecánicas como mágicas. Cuando el lanzador se mueve a 30' de una trampa, el o ella puede verla brillar con una débil aura verdeazul. El lanzador no es, sin embargo, capaz de detectar la naturaleza de ciertos peligros naturales como las arenas movedizas, los pozos o las paredes inseguras de piedra natural. El hechizo tampoco otorga el conocimiento necesario para desactivar la trampa, ni ningún detalle sobre su tipo o naturaleza.

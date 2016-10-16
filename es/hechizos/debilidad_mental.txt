@@ -1,0 +1,6 @@
+﻿Debilidad mental
+Mago 5
+Distancia: 180'
+Duración: permanente
+
+Si la criatura objetivo falla una tirada de salvación contra hechizos sus puntuaciones de Inteligencia y Carísma caen a 1. La criatura afectada es incapaz de lanzar hechizos, entender idiomas o comunicarse coerentemente. La víctima recuerda quienes son sus amigos y puede seguirlos y protegerlos del peligro. El sujeto se mantiene en este estado hasta que un hechizo de curación se use para cancelar el efecto. Una criatura objetivo que pueda lanzar hechizos de Mago sufre una penalización de -4 en su tirada de salvación contra este hechizo.

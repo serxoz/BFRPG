@@ -1,0 +1,8 @@
+﻿Encontrar el camino
+Clérigo 6
+Distancia: toque
+Duración: 1 turno por nivel
+
+El recipiente de este hechizo puede encontrar la ruta física más corta y directa a un destino especificado. El lanzador debe tener algún conocimiento sobre la localización; cualquier lugar que el lanzador haya visitado puede ser localizado, así como lugares descritos al lanzador. Aún sabiendo solo el nombre del lugar (en caso de tenerlo) es suficiente para que este hechizo funcione.
+El lugar puede ser a campo abierto o subterráneo. Encontrar el camino funciona con respecto a lugares, no objetos o criaturas. El lugar debe estar en el mismo plano que el lanzador a la hora de lanzarlo.
+El hechizo capacita al sujeto a sentir la dirección correcta a seguir para llegar a su destino, indicando al momento apropiado que ruta exacta a seguir o acciones físicas realizar. Por ejemplo, el hechizo capacita al sujeto para detectar las puertas secretas y a conocer las contraseñas requeridas. El hechizo acaba cuando se llega al destino o cuando la duración termine, lo que se alcance primero.

@@ -1,0 +1,7 @@
+﻿ESP	
+Mago 2
+Distancia: 60'
+Duración: 1 turno por nivel
+
+Este hechizo permite al lanzador detectar los pensamientos superficiales de uno o mas objetivos al alcance. El lanzador debe designar una dirección y concentrarse durante un turno para poder "oir" los pensamientos. Cada turno el lanzador puede elegir "escuchar" en una dirección diferente. El lanzador puede parar de escuchar, y volver después, tanto tiempo como quiera mientras la duración no haya acabado. La criatura objetivo normalmente no es consciente de que es espiada de esta manera.
+La roca de más de dos pulgadas de ancho o una fina cubierta de plomo o oro bloqueará el hechizo. Todas las criaturas nomuertas son inmunes a este efecto, así como las criaturas sin mente como los golems.
