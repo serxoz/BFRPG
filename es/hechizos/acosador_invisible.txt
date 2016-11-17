@@ -1,0 +1,6 @@
+Acosador invisible
+Mago 6
+Distancia: 0
+Duración: especial
+
+El lanzador invoca a un acosador invisible para que realice sus peticiones (ver sección de Monstruos para detalles). El hechizo persiste hasta que se use disipar el mal en la criatura, sea asesinada, o la petición sea completada. Se avisa al GM que revise la entrada del monstruo acosador invisible cuando se use este hechizo, ya que no siempre son servidores confiables.

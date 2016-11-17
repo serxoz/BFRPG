@@ -1,0 +1,6 @@
+Apertura
+Mago 2
+Distancia: 30'
+Duración: especial
+
+El hechizo apertura abre puertas atascadas, atrancadas, cerradas con llave, aguantadas o cerradas por un mago. Abre puertas secretas, así como cajas o cofres cerrados con llave o con trucos. También abre soldaduras, grilletes o cadenas (siempre que sirvan para mantener algo cerrado que puede ser abierto). Si se usa para abrir una puerta cerrada por un mago, el hechizo no quita la cerradura mágica, simplemente suspende su funcionamiento durante un turno. En el resto de casos, la puerta no se cierra por si misma o se atranca de nuevo. Apertura no levantará un rastrillo u operará cualquier mecanismo similar, no afectará a cuerdas, lianas y similares. Cada hechizo puede deshacer una sola manera de prevenir el acceso.

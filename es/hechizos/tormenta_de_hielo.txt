@@ -1,0 +1,6 @@
+Tormenta de Hielo
+Mago 4
+Distancia: 300'+30'/nivel
+Duración: 1 asalto
+
+Este hechizo causa que un granizo mágico caiga durante 1 asalto entero, haciendo 5d6 puntos de daño a cada criatura en un radio de 20' alrededor del punto objetivo; una salvación exitosa contra Magia reducirá el daño a la mitad. La tormenta de hielo llena un volumen vertical de 40', así las criaturas que se hallen más altas que esa distancia sobre el punto objetivo no se verán afectadas. Un penalizador de -20% se aplicará a cada tirada de Escuchar realizada dentro del área de efecto de la tormenta de hielo, y todo el movimiento terrestre en la zona se verá reducido a la mitad. Al finalizar la duración, el granizo desaparece, no dejando ningún efecto (salvo el daño). Cualquier criatura naturalmente resistente al frío recibe la mitad del daño (o un cuarto si hace la salvación).

@@ -1,0 +1,7 @@
+Invisibilidad 10' de radio
+Mago 3
+Distancia: toque
+Duración: 1 turno/nivel
+
+Este hechizo funciona como invisibilidad, con la excepción de que éste confiere invisibilidad a todas las criaturas a 10 pies del receptor. El centro del efecto se mueve con el receptor.
+Aquellos afectados por este hechizo pueden verse entre si y a si mismos como si no les afectara el hechizo. Las criaturas afectadas (las demás a parte del receptor) que ataquen negarán la invisibilidad solo a si mismas, pero si el receptor ataca, la invisibilidad finalizará para todas las criaturas afectadas. Cualquier criatura afectada que salga del área se vuelve visible, pero las criaturas que se muevan a dentro del área después de que el hechizo sea lanzado no se volverán invisibles (incluyendo cualquier criatura que previamente fuese afectada pero se volviera visible como se ha descrito antes).

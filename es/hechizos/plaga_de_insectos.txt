@@ -1,0 +1,6 @@
+Plaga de Insectos
+Clerigo 5
+Distancia: 300'+30'/nivel
+Duración: 1 asalto/nivel
+
+Este hechizo invoca un enjambre de langostas por cada tres niveles del lanzador, hasta un máximo de seis enjambres a nivel 18. Vea Enjambre de Insectos en la sección de Monstruos para los efectos del enjambre. Los enjambres deben ser invocados para que sean adyacentes entre si (es decir, los enjambres deben cubrir un área contigua). El lanzador puede invocar los enjambres de langostas para que compartan el área  con otra criatura. Cada enjambre ataca a cualquier criatura en su área. Los enjambres son estacionarios después de ser invocados.

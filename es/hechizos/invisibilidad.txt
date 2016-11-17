@@ -1,0 +1,8 @@
+Invisibilidad
+Mago 2
+Distancia: toque
+Duración: especial
+
+La criatura u objeto tocado se vuelve invisible, desapareciendo de la vista, incluyendo de la visión en la oscuridad. Si el receptor es una criatura que lleva equipo, este desaparece también. Si el hechizo se lanza sobre otro, ni el lanzador ni sus aliados pueden verlo, a menos que puedan ver normalmente cosas invisibles o emplear magia para ello.
+Los objetos tirados o dejados por una criatura invisible se vuelven visibles; los objetos recogidos desaparecen si se guardan bajo la ropa o en las faltriqueras que lleve la criatura. La luz, sin embargo, nunca se vuelve invisible, aunque la fuente de luz pueda hacerlo (así, el efecto es el de una luz con un origen invisible). Cualquier parte de un objeto que el sujeto lleve pero se extienda a mas de 10 pies de distancia de él se vuelve visible. Por supuesto, el sujeto no está silenciado mágicamente y ciertas condiciones pueden volverlo detectable (como caminar sobre un charco).
+El hechizo termina si el sujeto ataca a cualquier criatura o lanza un hechizo. Las acciones (a parte del lanzamiento de hechizos) dirigidas a objetos desatendidos no rompen el hechizo. Causar daño indirectamente no es un ataque. El hechizo dura como mucho 24 horas.
