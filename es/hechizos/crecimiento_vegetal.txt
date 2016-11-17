@@ -1,0 +1,8 @@
+Crecimiento Vegetal
+Mago 4
+Distancia: 120'
+Duración: permanente
+
+Este hechizo causa que la vegetación normal (hierbas, brezos, arbustos, enredaderas, cardos, árboles, vides, etc.) en el rango se vuelva más densa y demasiado grande. Las dimensiones del crecimiento son determinadas por el lanzador, pero no pueden exceder 1000 pies cuadrados (un área de 10'x100' o equivalente) por cada 5 niveles del lanzador. Las plantas se entrelazan para formar un matorral o selva y las criaturas deben cortarlas o abrirse camino por la fuerza para pasar a través. Todo movimiento en el área afectada se reduce a no más de 5' por asalto para criaturas más pequeñas que el tamaño gigante; las criaturas de tamaño gigante verán reducido su rango de movimiento a la mitad. El área debe contener arbustos y/o árboles para que el hechizo tenga efecto.
+La forma inversa, encoger plantas, puede ser usada para hacer que áreas con sobrecrecimiento sean franqueables. El área de efecto es idéntica a la versión normal.
+Crecimiento vegetal y su inverso son permanentes hasta que sean contrarrestados o con su inverso o con disipar magia. Este hechizo no tiene efecto en criaturas vegetales animadas de ningún tipo.

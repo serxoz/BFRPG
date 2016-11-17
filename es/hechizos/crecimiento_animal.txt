@@ -1,0 +1,8 @@
+Crecimiento Animal
+Clérigo 3
+Distancia: 60' + 10'/nivel
+Duración: 1 turno/nivel
+
+Este hechizo causa que un animal crezca al doble de su tamaño y ocho veces su peso normal. La criatura afectada hará el doble de daño con todos sus ataques físicos, y su Clase de Armadura natural existente se incrementará en 2. La capacidad de carga del animal se duplicará también. Los animales no amistosos pueden salvar contra Magia para resistir este hechizo; normalmente, los animales domésticos no intentarán resistirlo, aunque pueden confundirse o entrar en pánico (a discreción del GM).
+Todo el equipo vestido o cargado por el animal también aumentará de tamaño debido al hechizo, aunque este cambio no tendrá efecto en las propiedades mágicas de dicho equipo. Cualquier elemento agrandado que abandone la posesión de la criatura volverá instantáneamente a su tamaño normal.
+Este hechizo no da ningún medio de mando o influencia sobre los animales agrandados.

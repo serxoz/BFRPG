@@ -1,0 +1,6 @@
+Inmovilizar Monstruo
+Mago 5
+Distancia: 180'
+Duración: 2d8 turnos
+
+Este hechizo funciona como Inmovilizar Persona, con la excepción de que afecta a cualquier criatura viva que falle la tirada de salvación contra Magia.

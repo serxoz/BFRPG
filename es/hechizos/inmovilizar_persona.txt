@@ -1,0 +1,7 @@
+Inmovilizar Persona
+Clérigo 2, Mago 3
+Distancia: 180'
+Duración: 2d8 turnos
+
+Este hechizo paralizará a cualquier humano (no nomuerto), semi-humano o humanoide vivo. A las criaturas más grandes que los ogros no les afectará este hechizo. Los objetivos del hechizo están conscientes, y respiran con normalidad, pero no pueden llevar a cabo acciones, incluyendo hablar. Una tirada exitosa de salvación contra Magia negará el efecto. El hechizo puede ser lanzado contra una sola persona, que hará su tirada de salvación a -2, o contra un grupo, en cuyo caso 1d4 de las criaturas del grupo serán afectadas.
+Una criatura alada que quede paralizada no podrá batir sus alas y caerá (si está volando en ese momento). Un nadador paralizado no podrá nadar y se hundirá.

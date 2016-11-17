@@ -1,0 +1,7 @@
+Terreno alucinatorio
+Mago 4
+Distancia: 400'+40'/nivel
+Duración: 12 turnos/nivel
+
+Este hechizo hace que un cubo de 10 yardas por nivel del lanzador de terreno al aire libre parezca de un tipo diferente (p.ej. campo en bosque, pradera en desierto, o similar). El lanzamiento de este hechizo requiere un turno completo.
+El terreno afectado parece, suena y huele como otro tipo de terreno natural. Las estructuras, el equipo y las criaturas en el área no son escondidas o cambiadas de apariencia. Se permite una tirada de salvación contra Magia para ver a través de la ilusión, pero solo si las criaturas o personajes afectados lo intentan activamente.

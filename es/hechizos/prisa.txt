@@ -1,0 +1,8 @@
+Prisa*
+Mago 3
+Distancia: 30'+10'/nivel
+Duración: 1 asalto/nivel
+
+Este hechizo acelera las acciones de una criatura por nivel de lanzador. Las criaturas afectadas se mueven y actúan al doble de su velocidad normal, teniendo el doble de su rango de movimiento y haciendo el doble de ataques por asalto que tengan normalmente, mientras dure el hechizo.
+El lanzamiento de hechizos no se acelera, ni el uso de objetos mágicos como varitas, las cuales pueden ser usadas solo una vez por asalto. Múltiples efectos de celeridad o velocidad no se combinan; solo se aplica el efecto más poderoso y duradero.
+Inversamente, prisa se convierte en lentitud; las criaturas afectadas se mueven a la mitad de su velocidad, atacando la mitad de veces que normalmente (generalmente, cada otro turno) y haciendo la mitad de su movimiento cada asalto. Naturalmente, las criaturas objetivo pueden salvar contra Magia para evitar el efecto. Prisa y lentitud se contrarrestan y disipan uno a otro.

@@ -1,0 +1,6 @@
+Trabar Portal
+Mago 1
+Distancia: 100'+10'/nivel
+Duración: 1 asalto/nivel
+
+Este hechizo mantiene cerrada mágicamente una puerta, puente, ventana, o postigo de madera, metal o piedra. La magia afecta al portal solo como si fuera firmemente cerrado o normalmente cerrado con llave. Un hechizo de apertura o un hechizo exitoso de disipar magia puede negar el hechizo trabar portal.

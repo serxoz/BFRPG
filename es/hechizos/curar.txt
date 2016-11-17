@@ -1,0 +1,8 @@
+Curar*
+Clérigo 6
+Distancia: toque
+Duración: permanente
+
+Curar permite al lanzador limpiar las heridas y las aflicciones. Inmediatamente termina todas y cada una de las siguientes condiciones adversas que afecten al objetivo: daño de característica, ceguera, confusión, sordera, enfermedad, agotamiento o fatiga, debilidad mental, locura, náuseas y envenenamiento. También restaura todos menos 1d4 puntos de golpe del objetivo. Curar no quita los niveles negativos ni restaura los puntos de característica drenados permanentemente.
+El hechizo inverso, dañar, lesiona a la criatura tocada tan horriblemente que la deja solo con 1d4 puntos de golpe. El lanzador debe tener éxito en una tirada de ataque normal en este caso; el fallo significa que el hechizo se pierde. Tenga en cuenta que, si la víctima tiene menos puntos de golpe que el resultado del dado, el o ella recibirá por lo menos un punto de daño (y este es el único caso en el cual dañar puede matar a una criatura).
+Generalmente, tanto curar como dañar afectan solo a criaturas vivas. Si se usa contra criaturas nomuertas, curar actúa como dañar y dañar actúa como curar. A los constructos como los golems no les afecta ninguno de los dos hechizos.
