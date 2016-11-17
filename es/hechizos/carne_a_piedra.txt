@@ -1,0 +1,7 @@
+Carne a Piedra*
+Mago 6
+Distancia: 30'/nivel
+Duración: permanente
+
+Este hechizo causa que el sujeto, así como todo el equipo el equipo que lleve, se comvierta en una estatua inerte e inconsciente. Se permite una tirada de salvación contra Petrificación para resistir el hechizo. Si la estatua resultante de este hechizo se rompe o es dañada, el sujeto (si alguna vez vuelve a su estado original) sufre el daño o deformidades equivalentes. Solo afecta a las criaturas hechas de carne.
+El hechizo inverso, piedra a carne, actúa como un contrahechizo de carne a piedra, restaurando a la criatura tal como era cuando estaba petrificada. No hace nada si se aplica a piedra que no fue el resutado de carne a piedra o un efecto de petrificación similar (como puede ser la mirada de la medusa).

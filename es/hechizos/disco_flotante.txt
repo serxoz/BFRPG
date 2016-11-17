@@ -1,0 +1,8 @@
+Disco Flotante
+Mago 1
+Distancia: 0
+Duración: 5 turnos +1/nivel
+
+Este hechizo crea un plano circular, invisible y ligeramente cóncavo para llevar carga. Tiene cerca del tamaño de un escudo, teniendo alrededor de 3 pies de diámetro y una pulgada de espesor en su centro. Puede cargar con un máximo de 500 libras de peso. (El agua pesa cerca de 8 libras por galón.) El disco debe ser cargado de manera que los objetos colocados sobre él sean debidamente soportados, o (por supuesto) caerán. Por ejemplo, el disco puede aguantar alrededor de 62 galones de agua, pero el agua debe estar en un barril u otro contenedar que se pueda colocar sobre el disco. Similarmente un montón de monedas sueltas tenderán a deslizarse y algunas caerán a cada paso que da el lanzador; pero un gran saco de monedas, propiamente atado, se mantendrá estable.
+
+El disco se nivela con el suelo, a la altura aproximada de la cintura del lanzador. Permanecerá a 10' del lanzador, y lo seguirá a la velocidad del lanzador si se separa de él. El disco flotante se puede empujar para posicionarlo, pero si se aleja a más de 10' del lanzador se disipará. Cuando acabe la duración del hechizo, el disco desaparecerá y dejará caer lo que lleve encima.

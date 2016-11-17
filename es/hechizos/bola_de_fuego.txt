@@ -1,0 +1,8 @@
+Bola de Fuego
+Mago 3
+Distancia: 100'+10'/nivel
+Duración: instantáneo
+
+El hechizo de bola de fuego crea una explosión de llamas que detona con un bajo rugido e inflinge 1d6 puntos de daño de fuego por nivel del lanzador a cada criatura en el interior de una esfera de 20' de radio. Se permite una salvación contra Magia para evitar la mitad del daño. La explosión apenas crea presión.
+El lanzador apunta con su dedo y determina el rango (distancia y altura) a la cual la bola de fuego estallará. Una perla brillante del tamaño de un guisante saldrá disparada desde el dedo y, a menos que impacte contra un cuerpo material o barrera sólida previamente a alcanzar la distancia prescrita, florecerá en una bola de fuego en ese punto. (Si impacta antes, detonará antes) Si el lanzador intenta enviar la perla a través de un pasaje angosto, como a través de la hendidura de una flecha, él o ella deberá hacer una tirada de ataque a rango (sin los ajustes por distancia) para conseguirlo, o la perla golpeará la barrera y detonará prematuramente.
+La bola de fuego prede fuego a combustibles y daña los objetos en el área. Puede derretir metales con puntos de fusión bajos, como el plomo, el oro, el cobre, la plata y el bronce. Si el daño causado a una barrera interpuesta la rompe o la atraviesa, la bola de fuego puede continuar a través de manera que alcance su volumen total.

@@ -1,0 +1,11 @@
+Geas*
+Mago 6
+Distancia: 5' por nivel
+Duración: especial
+
+Geas dá una orden mágica a una criatura para llevar a cabo un servicio o para abstenerse de alguna acción o curso de actividad, como desee el lanzador. La criatura objetivo debe ser capaz de entender al lanzador para que este hechizo tenga efecto. Aunque un geas no puede hacer que una criatura se suicide o lleve a cabo actos que terminen en su muerte, puede causar que lleve a cabo cualquier curso de actividad.
+Se permite una tirada de salvación contra Magia para resistir el geas cuando es lanzado. De todas maneras, el objetivo puede elegir aceptar el geas, típicamente como un acuerdo con el lanzador para llevar a cabo algún servicio.
+La criatura encantada debe seguir las instrucciones dadas hasta que el geas se complete, no importa cuanto tiempo le lleve.
+Si las instrucciones implican alguna tarea sin fin que el receptor no pueda completar a través de sus propias acciones, el hechizo dura como máximo un día por nivel del lanzador. Un receptor inteligente puede subvertir algunas instrucciones, a discreción del GM.
+Por cada 24 horas que el sujeto elija no cumplir el geas (o sea prevenido de obedecerlo), sufre un penalizador de -2 a cada una de sus puntuaciones de característica, hasta un total de -8. Ninguna puntuación de característica puede ser reducida a menos de 3 mediante este efecto. Estos penalizadores desaparecerán a las 24 horas después de que el sujeto acabe de obedecer el geas.
+Un geas (y todos sus efectos) pueden ser finalizados por un hechizo de quitar maldición, o por un deseo, o usando el inverso de este hechizo. Disipar magia no afecta al geas. 

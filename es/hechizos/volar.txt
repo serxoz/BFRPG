@@ -1,0 +1,6 @@
+Volar
+Mago 3
+Distancia: toque
+Duración: 1 turno/nivel
+
+El sujeto de este hechizo puede volar a una velocidad igual que su rango de movimiento normal por tierra (ajustable por su carga). El sujeto puede ascender a la mitad de la velocidad y descender al doble de esta, con la misma maniobravilidad que si el sujeto estuviera moviendose por tierra. Volar bajo el efecto de este hechizo requiere solo la misma concentración que caminar, así el sujeto puede atacar o lanzar hechizos normalmente. El sujeto del hechizo volar nunca puede cargar ni correr, ni cargar más peso que su máxima capacidad de carga. Si la duración del hechizo expira mientras el sujeto aún está volando, caerá lentamente. El sujeto flotará hacia abajo 120' por asalto durante 1d10 asaltos. Si el sujeto alcanza el suelo en esa cantidad de tiempo, aterrizará sin peligro. Si no, caerá el resto de la distancia, recibiendo el daño normal por caída. Ya que disipar el hechizo lo finaliza, el sujeto descenderá de esta manera si el hechizo es disipado.
