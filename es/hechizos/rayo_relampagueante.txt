@@ -1,0 +1,7 @@
+Rayo relampagueante
+Mago 3
+Distancia: 50'+10'/nivel
+Duración: instantáneo
+
+Este hechizo libera un poderoso golpe de energía eléctrica que inflinge 1d6 puntos de daño eléctrico  por nivel del lanzador a cada criatura dentro de su área. Se permite una tirada de salvación contra Magia para reducir el daño a la mitad. El rayo comienza en las yemas de los dedos del lanzador y se extiende a la distancia dada. El lanzador puede elegir limitar la distancia del hechizo, pero la distancia mínima son 60 pies. La trayectoria del rayo relampagueante tiene 5' de ancho, pasa arqueándose y saltando y no serían realmente 5' de ancho pero para efectos del juego lo trataremos como si así fuera.
+El rayo relampagueante prende fuego a los combustibles y daña los objetos en su trayectoria. Puede derretir metales con un punto de fusión bajo como el plomo, el oro, el cobre, la plata o el bronce. Si el daño causado a una barrera que se interponga la destroza o la rompe al pasar a través de ella, el rayo puede continuar más allá de la barrera si la distancia del hechizo lo permite; de otra manera, puede reflejarse desde la barrera hacia el lanzador, o en una dirección aleatoria a elección del GM. Las criaturas ya afectadas por el rayo relampagueante no reciben daño adicional si son golpeadas por la reflexión del mismo rayo.

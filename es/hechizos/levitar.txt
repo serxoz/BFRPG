@@ -1,0 +1,7 @@
+Levitar
+Mago 2
+Distancia: toque
+Duración: 1 turno/nivel
+
+Levitar permite al lanzador, a otra criatura o a un objeto moverse hacia arriba o hacia abajo como desee. Una criatura debe estar dispuesta a ser levitada, y un objeto debe estar desatendido o poseído por una criatura dispuesta a ello. El lanzador puede mentalmente dirigir al receptor a moverse arriba o abajo como mucho a 20 pies por ronda, concentrándose. El lanzador no puede mover al receptor horizontalmente, pero el receptor puede trepar a lo largo de la pared de un precipicio por ejemplo, o irse empujando contra el techo para moverse lateralmente (normalmente a la mitad de su velocidad por tierra).
+Una criatura levitando que ataque con un arma se encontrará inestable; el primer ataque tiene un penalizador de -1, el segundo -2 y así hasta un máximo de -5. Una ronda gastada en estabilizarse permite a la criatura empezar de nuevo a -1.

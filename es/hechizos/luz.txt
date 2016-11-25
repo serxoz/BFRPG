@@ -1,0 +1,9 @@
+Luz*
+Clérigo 1, Mago 1
+Distancia: 120'
+Duración: 6 turnos + 1/nivel
+
+Este hechizo crea una luz similar a una antorcha que ilumina un área de 30' de radio (y provee una luz tenue de 20' adicionales) alrededor del objeto o localización objetivo. El efecto es inmóvil si se lanza sobre un área, pero se puede lanzar sobre un objeto móvil. Si se lanza Luz o se mueve a dentro de un área de oscuridad mágica no funciona.
+Invirtiendolo, luz se vuelve oscuridad, creando un área de oscuridad como se ha descrito arriba. Esta oscuridad bloquea la visión en la oscuridad y niega todas las fuentes de luz mundanas.
+Un hechizo de luz puede ser lanzado para contrarrestar y disipar un hechizo de oscuridad de un lanzador con igual o menor nivel (y viceversa). Hacerlo causa que ambos hechizos cesen instantáneamente, restaurando el nivel de luz ambiental existente.
+Cada versión de este hechizo puede usarse para cegar a un oponente lanzando el hechizo en los órganos oculares del objetivo. Al objetivo se le permite una tirada de salvación contra Rayo Mortal para evitar el efecto y si tiene éxito en la tirada el hechizo no le afectará. Un hechizo de luz u oscuridad lanzado para cegar no tiene el área de efecto indicado arriba (esto es, ni luz ni oscuridad se derramará alrededor de la víctima). 
