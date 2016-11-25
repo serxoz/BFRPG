@@ -1,0 +1,6 @@
+Localizar objeto
+Clérigo 3, Mago 2
+Distancia: 360'
+Duración: 1 ronda/level
+
+Este hechizo permite al lanzador sentir la dirección de un objeto conocido y claramente visualizado. Él o ella puede buscar objetos corrientes, en cuyo caso el más cercano de su tipo será el localizado si más de uno está a rango. El lanzador no puede especificar un objeto único a menos que él o ella hayan observado ese objeto en particular de primera mano (no sirve a través de adivinación). El hechizo se bloquea por el oro y el plomo aunque sea una fina lámina. Las criaturas no pueden ser encontradas mediante este hechizo. 

@@ -1,0 +1,6 @@
+Rebajar Agua
+Mago 6
+Distancia: 360'
+Duración: 1 turno/level
+
+Este hechizo causa que el agua o un líquido similar reduzca su profundidad tanto como 2 pies por nivel del lanzador (hasta una profundidad mínima de 1 pulgada). El agua se rebaja en una depresión más o menos cuadrada cuyos lados son de hasta 10 pies de largo por nivel de lanzador. En masas de agua extremadamente grandes y profundas, como puede ser el océano profundo, el hechizo crea un remolino que draga barcos y embarcaciones similares, poniéndolos en riesto y haciendo que sean incapaces de escapar de él por su movimiento normal mientras dure el hechizo. Cuando se lanza en elementales de agua y otras criaturas basadas en el agua, este hechizo actúa como un hechizo de lentitud (el inverso de prisa); se permite una tirada de salvación contra Magia, si tiene éxito se niega el efecto del hechizo. Este hechizo no tiene efecto en otras criaturas.
